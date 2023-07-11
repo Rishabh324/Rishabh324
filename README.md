@@ -2,7 +2,7 @@
 <h3 align="left">Junior @Indian Institute of Information Technology, Sonepat</h3>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/jakub-jarzabek/jakub-jarzabek/main/redme-gif.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjain100&label=Profile%20views&color=0e75b6&style=flat" alt="harshjain100" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh324&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh324" /> </p>
 
  - 🌱 I’m currently learning **Web Dev, DSA**
 
