@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rishabh-sinha-bb9050224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishabh324" height="30" width="40" /></a>
 <a href="https://www.instagram.com/i_am_rishabh324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rishabh324" height="30" width="40" /></a>
+ <a href="https://leetcode.com/Rishabh_Sinha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Rishabh324" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rishabh324" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Rishabh324" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sinharishabh402?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Rishabh324" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Rishabh_324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Rishabh324" height="30" width="40" /></a>
