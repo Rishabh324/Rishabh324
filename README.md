@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh324" alt="rishabh324" /></a> </p>
 
-- 🌱 I’m currently learning **Web developement, DSA**
+- 🌱 I’m skilled in **Full Stack developement, Amazon Web Services, DSA**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-git-main-rishabh324.vercel.app/](https://my-portfolio-git-main-rishabh324.vercel.app/)
 
-- 💬 Ask me about **MERN Stack, DSA, CP**
+- 💬 Ask me about **MERN Stack, DSA, CP, Golang, Python, Cloud**
 
 - 📫 How to reach me **sinharishabh402@gmail.com**
 
