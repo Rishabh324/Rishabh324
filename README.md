@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh324" alt="rishabh324" /></a> </p>
 
-- 🌱 I’m skilled in **Full Stack developement, Amazon Web Services, DSA**
+- 🌱 I’m skilled in **Full Stack developement, Golang, Amazon Web Services, DSA**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-git-main-rishabh324.vercel.app/](https://my-portfolio-git-main-rishabh324.vercel.app/)
 
-- 💬 Ask me about **MERN Stack, DSA, CP, Golang, Python, Cloud**
+- 💬 Ask me about **MERN Stack AWS, Golang, DSA, CP, Python, Cloud**
 
 - 📫 How to reach me **sinharishabh402@gmail.com**
 
@@ -19,13 +19,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rishabh-sinha-bb9050224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishabh-sinha-bb9050224/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22211702/rishabh-sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22211702/rishabh-sinha" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/rishabh_sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/rishabh_sinha" height="30" width="40" /></a>
 <a href="https://www.instagram.com/i_am_rishabh324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_am_rishabh324/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rishabh324" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rishabh324" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sinharishabh402?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sinharishabh402?hr_r=1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Rishabh_324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/rishabh_324" height="30" width="40" /></a>
-<a href="https://leetcode.com/Rishabh_Sinha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rishabh_sinha/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sinharishabh402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sinharishabh402" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Rishabh_324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Rishabh_324/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/rishabh_sinha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rishabh_sinha/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
