@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sinharishabh402@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xdqPhOgO07mJrQss1WrKQZEp83915pkH/view?usp=sharing](https://drive.google.com/file/d/1xdqPhOgO07mJrQss1WrKQZEp83915pkH/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gTPY5g8YPGDsy6eive-9liIOVi2kVptX/view?usp=sharing](https://drive.google.com/file/d/1gTPY5g8YPGDsy6eive-9liIOVi2kVptX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
